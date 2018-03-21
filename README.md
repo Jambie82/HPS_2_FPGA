@@ -92,4 +92,4 @@ but this is all I have time for today.
 
 You can get the Quartus project in a zip file here <a href=http://www.filedropper.com/a10devkittest><img src=http://www.filedropper.com/download_button.png width=127 height=145 border=0/></a><br /><div style=font-size:9px;font-family:Arial, Helvetica, sans-serif;width:127px;font-color:#44a854;> <a href=http://www.filedropper.com >file upload storage</a></div>
 
-The Linux code and other files can be found at my github here 
+The Linux code and other files can be found at my github here >> https://github.com/Jambie82/HPS_2_FPGA
