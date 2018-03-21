@@ -1,0 +1,1 @@
+commandThree.o: ../commandThree.c

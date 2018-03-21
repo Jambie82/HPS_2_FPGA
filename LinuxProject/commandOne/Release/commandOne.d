@@ -1,0 +1,1 @@
+commandOne.o: ../commandOne.c
