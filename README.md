@@ -89,3 +89,7 @@ then run commandThree again to turn it off (but be quick because you only have a
 - I compiled the Linux programs on my PC using Eclipse for DS-5 v5.26.0, though I have done the same using v5.23.0 in the past.
 - There are lots more details on exactly where the FIFO documentation is located and where the address connections are defined
 but this is all I have time for today.
+
+You can get the Quartus project in a zip file here <a href=http://www.filedropper.com/a10devkittest><img src=http://www.filedropper.com/download_button.png width=127 height=145 border=0/></a><br /><div style=font-size:9px;font-family:Arial, Helvetica, sans-serif;width:127px;font-color:#44a854;> <a href=http://www.filedropper.com >file upload storage</a></div>
+
+The Linux code and other files can be found at my github here 
