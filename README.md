@@ -114,7 +114,7 @@ then run commandThree again to turn it off (but be quick because you only have a
 - There are lots more details on exactly where the FIFO documentation is located and where the address connections are defined
 but this is all I have time for today.
 
-You can download the Quartus project in a zip file here >> http://www.filedropper.com/a10devkittest
+You can download the Quartus project in a zip file in the github location below (it is named HPStest.zip)
 
 The Linux code and other files can be found at my github here >> https://github.com/Jambie82/HPS_2_FPGA
 
